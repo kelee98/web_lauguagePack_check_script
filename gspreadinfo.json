@@ -1,0 +1,11 @@
+{
+    "keyFile": "healthy-dolphin-378702-84bb120f749c.json",
+    "spreadsheetURL": "https://docs.google.com/spreadsheets/d/1O6Uf1VtdrWcsYApY2CdfeHy9bwu6xbopOYUR2aooyxw/edit#gid=1612390783",
+    "sheetName" : "v3.5.0 - 완료",
+    "1d1d_auctionGuide" : ["G594:G602","G604:G606"],
+    "1d1d_editionGuide" : ["G583","G585:G589","G593","G592"],
+    "dfactory_editionGuide":[],
+    "market_auction":[],
+    "market_dfactory":[]
+
+}
