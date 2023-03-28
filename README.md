@@ -5,4 +5,9 @@
 - check_purchaseGuid.py : 언어팩을 체크 하 웹페이지를 열어 주고 , 구글 스프레드 시트와 같으 확인 하는 스크립트 
 - gspreadinfo.json : 구글 스프레드 시트 범위 를 저장 한 json 파일 
 - healthy-dolphin-: 구글 스프레드 시트 연동 을 위한 json 파일 
+## 사전 설치 필요 
+- $pip3 install selenium
+- $pip3 install gspread
+- $pip3 install --upgrade oauth2client (구글 인증에 필요한 설치)
+- $pip3 install json
 
