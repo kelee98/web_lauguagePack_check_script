@@ -6,6 +6,8 @@
 - gspreadinfo.json : 구글 스프레드 시트 범위 를 저장 한 json 파일 
 - healthy-dolphin-: 구글 스프레드 시트 연동 을 위한 json 파일 
 ## 사전 설치 필요 
+- Python 3.8 이상
+- 아래 명령어 실행해서 필수 python 모듈 설치 (IDE 사용 시 IDE 내에서 설치 가능함)
 - $pip3 install selenium
 - $pip3 install gspread
 - $pip3 install --upgrade oauth2client (구글 인증에 필요한 설치)
